@@ -4,7 +4,7 @@ A complete publishing platform: a public news website, an admin dashboard for ed
 
 ## Run it locally
 
-Requires Node.js 18 or newer. Nothing to configure: a database file is created in `data/` and uploads go to `uploads/`.
+Requires Node.js 22.12 or newer (Node 22.x). Nothing to configure: a database file is created in `data/` and uploads go to `uploads/`.
 
 ```bash
 npm install
